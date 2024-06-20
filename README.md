@@ -13,7 +13,7 @@ Stay up-to-date with the latest news across various categories including Busines
     <img src="https://github.com/yellurividyendra/InstantInfo/assets/124505605/8fdf3adc-2421-4e8e-a93b-877c188afabd" alt="Screenshot 2" width="250" style="margin: 10px;" />
     <img src="https://github.com/yellurividyendra/InstantInfo/assets/124505605/367e07c1-bf75-4585-ab9c-3550b23b0bc6" alt="Screenshot 3" width="250" style="margin: 10px;" />
     <img src="https://github.com/yellurividyendra/InstantInfo/assets/124505605/407ecf3d-a6b7-432f-ac4d-9836bab0f233" alt="Screenshot 4" width="250" style="margin: 10px;" />
-    <img src="https://github.com/yellurividyendra/InstantInfo/assets/124505605/d5c7dbb4-65e4-45fe-8195-9fe8858256ef" alt="Screenshot 5" width="250" style="margin: 10px;" />
+    <img src="https://github.com/yellurividyendra/InstantInfo/assets/124505605/2222ffb8-85c2-4197-a9a6-8d628028f000" alt="Screenshot 5" width="250" style="margin: 10px;" />
 </div>
 
 ## Features
