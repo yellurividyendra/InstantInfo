@@ -9,12 +9,19 @@ Stay up-to-date with the latest news across various categories including Busines
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://github.com/yellurividyendra/InstantInfo/assets/124505605/c0248ebf-7b02-43f1-a5e6-de991cafc9b1" alt="Screenshot 1" width="250" style="margin: 10px;" />
-    <img src="https://github.com/yellurividyendra/InstantInfo/assets/124505605/8fdf3adc-2421-4e8e-a93b-877c188afabd" alt="Screenshot 2" width="250" style="margin: 10px;" />
-    <img src="https://github.com/yellurividyendra/InstantInfo/assets/124505605/367e07c1-bf75-4585-ab9c-3550b23b0bc6" alt="Screenshot 3" width="250" style="margin: 10px;" />
-    <img src="https://github.com/yellurividyendra/InstantInfo/assets/124505605/407ecf3d-a6b7-432f-ac4d-9836bab0f233" alt="Screenshot 4" width="250" style="margin: 10px;" />
-    <img src="https://github.com/yellurividyendra/InstantInfo/assets/124505605/2222ffb8-85c2-4197-a9a6-8d628028f000" alt="Screenshot 5" width="250" style="margin: 10px;" />
-</div>
+    <!-- First Row -->
+    <div style="display: flex;">
+        <img src="https://github.com/yellurividyendra/InstantInfo/assets/124505605/c0248ebf-7b02-43f1-a5e6-de991cafc9b1" alt="Screenshot 1" width="250" style="margin: 10px;" />
+        <img src="https://github.com/yellurividyendra/InstantInfo/assets/124505605/8fdf3adc-2421-4e8e-a93b-877c188afabd" alt="Screenshot 2" width="250" style="margin: 10px;" />
+        <img src="https://github.com/yellurividyendra/InstantInfo/assets/124505605/367e07c1-bf75-4585-ab9c-3550b23b0bc6" alt="Screenshot 3" width="250" style="margin: 10px;" />
+        <img src="https://github.com/yellurividyendra/InstantInfo/assets/124505605/407ecf3d-a6b7-432f-ac4d-9836bab0f233" alt="Screenshot 4" width="250" style="margin: 10px;" />
+        <img src="https://github.com/yellurividyendra/InstantInfo/assets/124505605/226d9530-4dff-46af-80b5-d2822056d7b9" alt="Screenshot 4" width="250" style="margin: 10px;" />
+        <img src="https://github.com/yellurividyendra/InstantInfo/assets/124505605/45144455-d5ef-4972-bd7f-3072c81ec35b" alt="Screenshot 4" width="250" style="margin: 10px;" />   
+  <img src="https://github.com/yellurividyendra/InstantInfo/assets/124505605/2222ffb8-85c2-4197-a9a6-8d628028f000" alt="Screenshot 5" style="width: 100%; height: auto; margin: 10px;" />
+    </div>
+   
+
+
 
 ## Features
 
